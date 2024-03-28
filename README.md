@@ -5,6 +5,7 @@
 I'm a beginner programmer with a passion for Python and a knack for problem-solving. I have a background in healthcare, which allowed me experience working with hospital database systems, where I've gained valuable insights into healthcare operations.
 
 ![Stock graphic of a laptop showing the word 'Python'](https://media.istockphoto.com/id/1218905862/vector/laptop-with-a-code-computer-language-python.jpg?s=612x612&w=0&k=20&c=UWjdcu84QE6rer9qygrY1aegBFCvkVBAUeqq9Qz2gl8=)
+
 ---
 
 ## Skills
