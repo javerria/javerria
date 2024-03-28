@@ -31,7 +31,7 @@ Like most other programmers, the first program I ever wrote was a friendly one!
 
 Let's talk!
 
-Find me via email at javeriaiqtidar@gmail.com (mailto:javeriaiqtidar@gmail.com). 
+Find me via email at [javeriaiqtidar@gmail.com] (mailto:javeriaiqtidar@gmail.com). 
 
 ---
 
