@@ -22,7 +22,7 @@ I'm enthusiastic about learning new technologies and contributing to projects th
 > "I'm not a great programmer; I'm just a good programmer with great habits." _-- Kent Beck_
 
 Like most other programmers, the first program I ever wrote was a friendly one!
-`print("Hello, World!)
+`print("Hello, World!)`
 
 ---
 
