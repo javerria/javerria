@@ -23,7 +23,7 @@ I'm enthusiastic about learning new technologies and contributing to projects th
 
 Like most other programmers, the first program I ever wrote was a friendly one!
 
-'print("Hello World!")'
+`print("Hello World!")`
 ---
 
 
