@@ -20,6 +20,7 @@ I'm a beginner programmer with a passion for Python and a knack for problem-solv
 ## Education
 
 Software Development Bootcamp by HyperionDev, 2024
+
 MBBS, King Edward Medical University, 2021
 
 ---
@@ -39,6 +40,7 @@ Like most other programmers, the first program I ever wrote was a friendly one!
 ## Contact Me
 
 Find me via email at [javeriaiqtidar@gmail.com](mailto:javeriaiqtidar@gmail.com). 
+
 LinkedIn: [Javeria Iqtidar on LinkedIn](https://www.linkedin.com/in/javeria-iqtidar-3a9631187/)
 
 ---
